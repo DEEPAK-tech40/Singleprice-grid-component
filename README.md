@@ -4,6 +4,9 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Overview
 
+![desktop-design](https://user-images.githubusercontent.com/94350356/200350821-a3b235e4-4757-4a43-8b7c-141b5729a089.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -12,6 +15,16 @@ Users should be able to:
 - See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
+
+Desktop-view:
+
+![desktop-preview](https://user-images.githubusercontent.com/94350356/200350905-3267c749-7925-4aee-a7c7-4b07932866ff.jpg)
+
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/200350958-487799ca-6d11-497a-a8fd-5fdab8412917.jpg)
+
 
 ### Links
 
